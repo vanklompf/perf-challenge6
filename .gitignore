@@ -14,12 +14,13 @@ __pycache__
 .idea/
 cmake-build-debug/
 
-build_solution
-build_baseline
-build
 results.json
 /tools/benchmark/
 /bzip2
-/data/large.data
-/data/small.data
-/ref/small.out
+/data/
+/ref/
+baselineBuild?/
+solutionBuild?/
+build?/
+build/
+.vscode/
